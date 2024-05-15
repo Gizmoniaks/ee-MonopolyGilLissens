@@ -22,3 +22,8 @@ Spelbord: Het spelbord is verdeeld in verschillende vakjes, waaronder onroerend 
 **Investeringen:** Veel spelers streven ernaar om hele sets van eigendommen te verzamelen om huizen en hotels te kunnen bouwen. Dit vergroot de huurinkomsten.
 Handel: Onderhandelingen en ruilen van eigendommen zijn een belangrijk onderdeel van het spel. Dit kan strategisch worden gebruikt om monopolie te bereiken of inkomsten te verhogen.
 **Risico's en Beloningen:** Spelers moeten strategisch omgaan met risico's, zoals het kopen van dure eigendommen of investeren in huizen/hotels.
+
+## Populariteit en Variaties
+Het spel is wereldwijd populair en heeft een grote community van spelers en toernooien. Het heeft ook geleid tot tal van andere media, waaronder digitale versies, mobiele apps, boeken, en merchandise.
+
+Als je specifieke vragen hebt over bepaalde regels of strategieën in De Kolonisten van Catan, of als je wilt weten welke uitbreidingen het beste bij je passen, kan ik je verder helpen.
