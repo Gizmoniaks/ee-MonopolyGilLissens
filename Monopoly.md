@@ -27,3 +27,32 @@ Handel: Onderhandelingen en ruilen van eigendommen zijn een belangrijk onderdeel
 Het spel is wereldwijd populair en heeft een grote community van spelers en toernooien. Het heeft ook geleid tot tal van andere media, waaronder digitale versies, mobiele apps, boeken, en merchandise.
 
 Als je specifieke vragen hebt over bepaalde regels of strategieën in De Kolonisten van Catan, of als je wilt weten welke uitbreidingen het beste bij je passen, kan ik je verder helpen.
+
+## Voor de data-lovers 
+
+### Aangeboden gronden (Vlaamse Editie)
+
+| Kleur      | Straat                  | Kostprijs |
+|------------|------------------------|-----------|
+| Bruin      | Boudewijnlaan           | €60       |
+| Bruin      | Koninklijk Domein       | €60       |
+| Lichtblauw | Katelijnestraat         | €100      |
+| Lichtblauw | Mechelsestraat          | €100      |
+| Lichtblauw | Hoogpoort               | €120      |
+| Roze       | Oudenaardsesteenweg     | €140      |
+| Roze       | Kortrijksestraat        | €140      |
+| Roze       | Lange Nieuwstraat       | €160      |
+| Oranje     | Vogelmarkt              | €180      |
+| Oranje     | Lange Munt              | €180      |
+| Oranje     | Gentsesteenweg          | €200      |
+| Rood       | Louizalaan              | €220      |
+| Rood       | Waterloolaan            | €220      |
+| Rood       | Troonstraat             | €240      |
+| Geel       | Sint-Jorisstraat        | €260      |
+| Geel       | Koning Albertlaan       | €260      |
+| Geel       | Meir                    | €280      |
+| Groen      | Vrijdagmarkt            | €300      |
+| Groen      | Kalvebrug               | €300      |
+| Groen      | Lange Steenstraat       | €320      |
+| Blauw      | Graslei                 | €350      |
+| Blauw      | Korenlei                | €400      |
