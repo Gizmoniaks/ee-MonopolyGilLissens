@@ -1,0 +1,14 @@
+# Monopoly: the Game
+
+## Introduction
+**Monopolie (of "Monopoly" in het Engels)** is een klassiek bordspel dat is ontworpen om economische principes te simuleren, zoals het kopen en verkopen van onroerend goed, investeringen, en het behalen van een monopolie in de markt. Het spel is ontwikkeld door Charles Darrow en voor het eerst gepubliceerd door Parker Brothers in 1935. Hier zijn enkele belangrijke kenmerken en details van het spel:
+
+## Gameplay 🎯
+### Spelregels en Doel
+**Doel van het Spel:** 
+- Het hoofddoel van Monopolie is om zoveel mogelijk eigendommen te verwerven, andere spelers failliet te maken en als laatste over te blijven met al het geld en onroerend goed.
+Spelbord: Het spelbord is verdeeld in verschillende vakjes, waaronder onroerend goed (zoals straten), spoorwegen, nutsvoorzieningen, en speciale vakjes zoals **"Kans"** en **"Algemeen Fonds"**.
+- **Start en Beweging:** Spelers bewegen hun pionnen over het bord door dobbelstenen te gooien. Elk vakje heeft een specifieke actie, zoals het kopen van eigendommen, het betalen van belasting, of het trekken van een Kans-kaart.
+- **Eigendom en Handel:** Spelers kunnen eigendommen kopen en huizen of hotels daarop bouwen om huur te innen van andere spelers. Er kunnen ook onderhandelingen en handel plaatsvinden tussen spelers.
+- **Belasting en Boetes:** Er zijn vakjes en situaties waarin spelers boetes of belastingen moeten betalen. Er is ook een gevangenis, waar spelers tijdelijk kunnen vastzitten.
+- **Bank en Geld:** De bank beheert het geld, eigendommen, en huizen/hotels. Spelers ontvangen geld bij het passeren van "Start"🥇 en kunnen geld verdienen door huur te innen of handel te drijven
