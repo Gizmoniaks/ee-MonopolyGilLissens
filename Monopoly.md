@@ -12,3 +12,8 @@ Spelbord: Het spelbord is verdeeld in verschillende vakjes, waaronder onroerend 
 - **Eigendom en Handel:** Spelers kunnen eigendommen kopen en huizen of hotels daarop bouwen om huur te innen van andere spelers. Er kunnen ook onderhandelingen en handel plaatsvinden tussen spelers.
 - **Belasting en Boetes:** Er zijn vakjes en situaties waarin spelers boetes of belastingen moeten betalen. Er is ook een gevangenis, waar spelers tijdelijk kunnen vastzitten.
 - **Bank en Geld:** De bank beheert het geld, eigendommen, en huizen/hotels. Spelers ontvangen geld bij het passeren van "Start"🥇 en kunnen geld verdienen door huur te innen of handel te drijven
+
+## Speciale Vakjes
+**Gevangenis**: Spelers kunnen naar de gevangenis gaan als ze op het gevangenisvakje komen of bepaalde kaarten trekken. Ze kunnen vrijkomen door een "Verlaat de Gevangenis"-kaart te hebben, een boete te betalen, of drie keer dubbel te gooien.
+**Belastingen**💵: Sommige vakjes vereisen het betalen van een vaste belasting of een percentage van het bezit van de speler.
+**Spoorwegen 🚂 en Nutsvoorzieningen🔌:** Dit zijn speciale eigendommen die spelers kunnen kopen. Spoorwegen geven recht op huurinkomsten, terwijl nutsvoorzieningen gebaseerd zijn op de worp van de dobbelstenen.
