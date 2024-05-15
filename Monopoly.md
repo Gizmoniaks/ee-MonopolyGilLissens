@@ -17,3 +17,8 @@ Spelbord: Het spelbord is verdeeld in verschillende vakjes, waaronder onroerend 
 **Gevangenis**: Spelers kunnen naar de gevangenis gaan als ze op het gevangenisvakje komen of bepaalde kaarten trekken. Ze kunnen vrijkomen door een "Verlaat de Gevangenis"-kaart te hebben, een boete te betalen, of drie keer dubbel te gooien.
 **Belastingen**💵: Sommige vakjes vereisen het betalen van een vaste belasting of een percentage van het bezit van de speler.
 **Spoorwegen 🚂 en Nutsvoorzieningen🔌:** Dit zijn speciale eigendommen die spelers kunnen kopen. Spoorwegen geven recht op huurinkomsten, terwijl nutsvoorzieningen gebaseerd zijn op de worp van de dobbelstenen.
+
+## Strategieën en Tactieken
+**Investeringen:** Veel spelers streven ernaar om hele sets van eigendommen te verzamelen om huizen en hotels te kunnen bouwen. Dit vergroot de huurinkomsten.
+Handel: Onderhandelingen en ruilen van eigendommen zijn een belangrijk onderdeel van het spel. Dit kan strategisch worden gebruikt om monopolie te bereiken of inkomsten te verhogen.
+**Risico's en Beloningen:** Spelers moeten strategisch omgaan met risico's, zoals het kopen van dure eigendommen of investeren in huizen/hotels.
