@@ -56,13 +56,3 @@ Als je specifieke vragen hebt over bepaalde regels of strategieën in De Kolonis
 | Groen      | Lange Steenstraat       | €320      |
 | Blauw      | Graslei                 | €350      |
 | Blauw      | Korenlei                | €400      |
-
-### Aantal Gronden per provincie (Vlaamse Editie)
-
-| Provincie        | Aantal Straten |
-|-----------------|----------------|
-| Antwerpen       | 4              |
-| Oost-Vlaanderen | 5              |
-| West-Vlaanderen | 4              |
-| Vlaams-Brabant  | 3              |
-| Limburg         | 3              |
