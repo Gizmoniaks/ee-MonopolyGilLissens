@@ -1,0 +1,1 @@
+![Image of monopoly game](/images/Monopoly.jpg)
