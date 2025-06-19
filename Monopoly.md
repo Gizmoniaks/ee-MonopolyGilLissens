@@ -26,4 +26,4 @@ Handel: Onderhandelingen en ruilen van eigendommen zijn een belangrijk onderdeel
 ## Populariteit en Variaties
 Het spel is wereldwijd populair en heeft een grote community van spelers en toernooien. Het heeft ook geleid tot tal van andere media, waaronder digitale versies, mobiele apps, boeken, en merchandise.
 
-Als je specifieke vragen hebt over bepaalde regels of strategieën in De Kolonisten van Catan, of als je wilt weten welke uitbreidingen het beste bij je passen, kan ik je verder helpen.
+“Wat Monopoly echt onderscheidt, is de enorme variatie die het biedt. Van klassieke versies die steden over de hele wereld representeren tot thema-edities die gebaseerd zijn op popcultuuriconen, er is een Monopoly-variant voor vrijwel elke interesse of hobby. Deze variaties voegen een nieuwe dimensie toe aan het spel, waardoor spelers zich kunnen onderdompelen in werelden die ze kennen en waarderen, terwijl ze toch genieten van de tijdloze gameplay die Monopoly te bieden heeft”
