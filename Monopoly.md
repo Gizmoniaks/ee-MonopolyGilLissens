@@ -29,3 +29,43 @@ Handel: Onderhandelingen en ruilen van eigendommen zijn een belangrijk onderdeel
 Het spel is wereldwijd populair en heeft een grote community van spelers en toernooien. Het heeft ook geleid tot tal van andere media, waaronder digitale versies, mobiele apps, boeken, en merchandise.
 
 “Wat Monopoly echt onderscheidt, is de enorme variatie die het biedt. Van klassieke versies die steden over de hele wereld representeren tot thema-edities die gebaseerd zijn op popcultuuriconen, er is een Monopoly-variant voor vrijwel elke interesse of hobby. Deze variaties voegen een nieuwe dimensie toe aan het spel, waardoor spelers zich kunnen onderdompelen in werelden die ze kennen en waarderen, terwijl ze toch genieten van de tijdloze gameplay die Monopoly te bieden heeft”
+
+## Voor de data-lovers 
+
+### Aangeboden gronden (Vlaamse Editie)
+
+| Kleur      | Straat                  | Kostprijs |
+|------------|------------------------|-----------|
+| Bruin      | Boudewijnlaan           | €60       |
+| Bruin      | Koninklijk Domein       | €60       |
+| Lichtblauw | Katelijnestraat         | €100      |
+| Lichtblauw | Mechelsestraat          | €100      |
+| Lichtblauw | Hoogpoort               | €120      |
+| Roze       | Oudenaardsesteenweg     | €140      |
+| Roze       | Kortrijksestraat        | €140      |
+| Roze       | Lange Nieuwstraat       | €160      |
+| Oranje     | Vogelmarkt              | €180      |
+| Oranje     | Lange Munt              | €180      |
+| Oranje     | Gentsesteenweg          | €200      |
+| Rood       | Louizalaan              | €220      |
+| Rood       | Waterloolaan            | €220      |
+| Rood       | Troonstraat             | €240      |
+| Geel       | Sint-Jorisstraat        | €260      |
+| Geel       | Koning Albertlaan       | €260      |
+| Geel       | Meir                    | €280      |
+| Groen      | Vrijdagmarkt            | €300      |
+| Groen      | Kalvebrug               | €300      |
+| Groen      | Lange Steenstraat       | €320      |
+| Blauw      | Graslei                 | €350      |
+| Blauw      | Korenlei                | €400      |
+
+### Aantal Gronden per provincie (Vlaamse Editie)
+
+| Provincie        | Aantal Straten |
+|-----------------|----------------|
+| Antwerpen       | 4              |
+| Oost-Vlaanderen | 5              |
+| West-Vlaanderen | 4              |
+| Vlaams-Brabant  | 3              |
+| Limburg         | 3              |
+
